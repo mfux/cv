@@ -18,15 +18,12 @@ Project Internship at __Telecooperation lab at TU Harnstadt__
 10/2017 - 02/2018
 Research Assistant at URP lab at TU Harnstadt
 
-Deployed machine learning models in a production environment
-Tutored programming classes for undergraduate students
-Contributed to software development projects as part of a scrum team
 04/2017 – 09/2017
 Project Internship at Telecooperation lab at TU Harnstadt
 
 Developed a microservice-based video-streaming application using [programming language]
 Set up a virtual network and cloud environment using [tools]
-Developed and compared performance of schedulers for container orchestration using [tools]
+ using [tools]
 
 ---
 
